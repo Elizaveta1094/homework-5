@@ -1,0 +1,15 @@
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.csproj.AssemblyReference.cache
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.AssemblyInfoInputs.cache
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.AssemblyInfo.cs
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.csproj.CoreCompileInputs.cache
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\bin\Debug\net6.0\5.1.34 task.exe
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\bin\Debug\net6.0\5.1.34 task.deps.json
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\bin\Debug\net6.0\5.1.34 task.runtimeconfig.json
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\bin\Debug\net6.0\5.1.34 task.dll
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\bin\Debug\net6.0\5.1.34 task.pdb
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.dll
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\refint\5.1.34 task.dll
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.pdb
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\5.1.34 task.genruntimeconfig.cache
+C:\Users\treni\OneDrive\Рабочий стол\учеба\си шарп\5.1 hw\5.1.34 task\obj\Debug\net6.0\ref\5.1.34 task.dll
